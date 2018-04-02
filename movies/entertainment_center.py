@@ -42,5 +42,3 @@ movies = [titanic, jurassic_park, back_to_the_future,
           pulp_fiction, the_shawshank_redemption, the_green_mile]
 # a call to fresh_tomatoes.py to open the webpage
 fresh_tomatoes.open_movies_page(movies)
-
-                        
